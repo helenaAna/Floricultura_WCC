@@ -1,0 +1,22 @@
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.exe
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.deps.json
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.runtimeconfig.json
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.runtimeconfig.dev.json
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.dll
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.pdb
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.csprojAssemblyReference.cache
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.AssemblyInfoInputs.cache
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.AssemblyInfo.cs
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.dll
+C:\Users\anahe\OneDrive\Área de Trabalho\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.pdb
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.exe
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.deps.json
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.dll
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp3.0\Floricultura.pdb
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.dll
+C:\Users\gabri\OneDrive\Documents\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp3.0\Floricultura.pdb
